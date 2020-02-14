@@ -19,6 +19,11 @@ check the example in the browser.
  http://localhost/phpspreadsheet-Reading-Images-from-an-Excel-File/
  
 
+## Note 
+For the project integration to phpspreadsheet  make sure to follow  
+https://phpspreadsheet.readthedocs.io/en/latest/#installation  
+
+
 
 ## Developer
 
