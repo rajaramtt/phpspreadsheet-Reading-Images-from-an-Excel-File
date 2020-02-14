@@ -1,9 +1,11 @@
 <?php
-/*
-
-
-
-*/
+// ==================================================
+// 
+// phpspreadsheet-Reading-Images-from-an-Excel-File
+// 
+// Developer: Raja Rama Mohan Thavalam <rajaram.tavalam@gmail.com>
+//
+// ==================================================
 
 require 'vendor/autoload.php';
 

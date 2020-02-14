@@ -24,6 +24,9 @@ For the project integration to phpspreadsheet  make sure to follow
 https://phpspreadsheet.readthedocs.io/en/latest/#installation  
 
 
+## Credits/Source : https://phpspreadsheet.readthedocs.io/en/latest/topics/recipes/#reading-images-from-a-worksheet
+
+
 
 ## Developer
 
